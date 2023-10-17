@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Xavier Challe</h1>
-<h3 align="center">42 student enthusiastic in Cybersecurity, Web3 and DevOps</h3>
+<h3 align="center">42 student enthusiast in Cybersecurity, Web3 and DevOps</h3>
 
 - 🔭 I’m currently working on [Woodywood-packer](https://github.com/mathias-mrsn/woody_woodpacker)
 
 - 🌱 I’m currently learning **ASM, Solidity**
 
-- 👯 I’m looking to collaborate **with anyone enthusiastic in the same subject than me**
+- 👯 I’m looking to collaborate **with anyone enthusiast in the same subject than me**
 
 - 🤝 I’m looking for help with **to make me like frontend**
 
